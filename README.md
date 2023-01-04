@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-KqEVRFFx9P)
+- Live Site URL: (https://ping-coming-soon-page.onrender.com)
 
 ## My process
 
