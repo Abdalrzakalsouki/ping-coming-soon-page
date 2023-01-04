@@ -8,6 +8,7 @@ let regex =
 form.addEventListener("submit", (e) => {
   e.preventDefault();
   if (input.value === "") {
+    valdationText.style.color = "#ff5263";
     valdationText.innerText =
       "Whoops! It looks like you forgot to add your email";
     return false;
